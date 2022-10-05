@@ -1,0 +1,138 @@
+[
+    {
+        "item_id": 1,
+        "image": "https://tinyurl.com/f3krxsrn",
+        "brand": "TheFashionPlus ",
+        "description": "mask Solid Men Hooded Neck Black T-Shirt",
+        "price": 148,
+        "rating": 4.1,
+        "size": "S M L XL",
+        "discount": 10,
+        "stock": "in-stock"      
+    },
+    {
+        "item_id": 2,
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sweatshirt/z/o/d/xxl-fc6049-fastcolors-men-original-imaggfhpzcjxm68f.jpeg?q=70",
+        "brand": "FastColors",
+        "description": "Full Sleeve Printed, Color Block Men Sweatshirt",
+        "price": 272,
+        "rating": 3.9,
+        "size": "S M L XL",
+        "discount": 86,
+        "stock": "in-stock"      
+
+        
+    },
+    {
+        "item_id": 3,
+        "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sweatshirt/z/o/d/xxl-fc6049-fastcolors-men-original-imaggfhpzcjxm68f.jpeg?q=70",
+        "brand": "FastColors",
+        "description": "Full Sleeve Printed, Color Block Men Sweatshirt",
+        "price": 272,
+        "rating": 3.9,
+        "size": "S M L XL",
+        "discount": 86,
+        "stock": "in-stock"      
+
+    },
+    {
+        "item_id": 4,
+        "image": "https://rukminim1.flixcart.com/image/832/832/k7c88sw0/sari/j/z/y/free-ladli-krishna-r-fashion-original-imafphxuxmkutnt8.jpeg?q=70",
+        "brand": "Krishna R fashion ",
+        "description": "Woven Bollywood Jacquard Saree(Pink, Cream)",
+        "price": 410,
+        "rating": 4,
+        "size": "S M L XL",
+        "discount": 89,
+        "stock": "in-stock"      
+
+    },
+    {
+        "item_id": 5,
+        "image": "https://m.media-amazon.com/images/I/61+xWaRPFiL._UY741_.jpg",
+        "brand": "MAX",
+        "description": "Max Women's Rayon Regular Kurta",
+        "price": 299,
+        "rating": 4,
+        "size": "S M L XL",
+        "discount": 89,
+        "stock": "not-in-stock"      
+
+    },
+    {
+        "item_id": 6,
+        "image": "https://m.media-amazon.com/images/I/81l9N2kn-1L._UX522_.jpg",
+        "brand": "MAX",
+        "description": "Max Women's Cotton Regular Kurtas",
+        "price": 269,
+        "rating": 4,
+        "size": "S M L XL",
+        "discount": 30,
+        "stock": "in-stock"      
+
+    },
+    {
+        "item_id": 7,
+        "image": "VIMAL JONNY",
+        "brand": "MAX",
+        "description": "VIMAL JONNEY Men's Regular Fit Track pants",
+        "price": 300,
+        "rating": 4.5,
+        "size": "S M L XL",
+        "discount": 70,
+        "stock": "in-stock"      
+
+    },
+    {
+        "item_id": 8,
+        "image": "https://m.media-amazon.com/images/I/71QxHvAHn-L._UX425_.jpg",
+        "brand": "U.S.POLO",
+        "description": "U.S. POLO ASSN. Men's Slim Track Pants",
+        "price": 1650,
+        "rating": 4.5,
+        "size": "S M L XL",
+        "discount": 70,
+        "stock": "in-stock"      
+
+
+    },
+    {
+        "item_id": 9,
+        "image": "https://rukminim1.flixcart.com/image/832/832/ktbu6q80/shopsy-t-shirt/u/3/b/l-3cm-polo-19-rock-hudson-original-imag6zwfpg3wdygc.jpeg?q=70",
+        "brand": "Ansh Fashion Wear ",
+        "description": "Pack of 3 Solid Men Polo Neck Multicolor T-Shirt",
+        "price": 344,
+        "rating": 3.6,
+        "size": "S M L XL",
+        "discount": 75,
+        "stock": "in-stock"      
+
+    },
+    {
+        "item_id": 10,
+        "image": "https://rukminim1.flixcart.com/image/832/832/ktbu6q80/shopsy-t-shirt/u/3/b/l-3cm-polo-19-rock-hudson-original-imag6zwfpg3wdygc.jpeg?q=70",
+        "brand": "PHEASANT",
+        "description": "Printed, Self Design, Paisley, Woven, Embellished, Applique Paithani Jacquard, Art Silk Saree  (Multicolor)",
+        "price": 613,
+        "rating": 3.6,
+        "size": "S M L XL",
+        "discount": 89,
+        "stock": "in-stock"      
+
+    },
+    {
+        "item_id": 11,
+        "image": "https://rukminim1.flixcart.com/image/832/832/l2tcfbk0/shirt/r/b/s/l-ddd-marmic-fab-original-image2gfkqzqkzxg.jpeg?q=70",
+        "brand": "SEVENTEENSTITCH",
+        "description": "Men Regular Fit Printed, Checkered Ribbed Collar Casual Shirt",
+        "price": 287,
+        "rating": 4.4,
+        "size": "S M L XL",
+        "discount": 77,
+        "stock": "in-stock"      
+    }
+
+
+
+   
+]
